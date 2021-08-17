@@ -1,5 +1,5 @@
 <p align="center">
-<!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<!-- <a href="https://www.adityavsingh.com"><img src=""/></a> -->
 <a href="https://www.linkedin.com/in/digvijay-bind-000742173/"><img src=""/></a>
 <a href="mailto:binddigvijay123@gmail.com"><img src="https://img.shields.io/badge/-vijaygupta701@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <!-- <a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
